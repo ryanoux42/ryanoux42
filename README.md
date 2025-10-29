@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Ryan HERCULE  
+
+💡 Always learning, building, and improving my skills.
+
+## 📫 Contact
+
+📧 Email: [ryan.hercule@epitech.eu]  
+💼 LinkedIn: [https://www.linkedin.com/in/ryan-hercule/](#)  
 
 <!--
 **ryanoux42/ryanoux42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
