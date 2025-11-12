@@ -24,9 +24,9 @@
   "fields_of_interests": [
     "Web Development",
     "UI/UX",
-    "Frontend",
-    "Backend",
-    "Data Science",
+    "Front end",
+    "Back end",
+    "Data Engineering",
   ],
   "technical_background": [
     "Intern - Full Stack Developer",
